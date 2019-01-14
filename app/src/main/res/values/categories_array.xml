@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string-array name="categories">
+        <item>@string/event_space</item>
+        <item>@string/market</item>
+        <item>@string/park</item>
+        <item>@string/pub</item>
+        <item>@string/restaurant</item>
+        <item>@string/square</item>
+        <item>@string/store</item>
+        <item>@string/other</item>
+    </string-array>
+
+</resources>
